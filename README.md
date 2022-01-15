@@ -1,5 +1,5 @@
-### Hi there 👋, I' m Ranjeet  Hinge
-#### Full Stack Web Developer | Competitive Programmer 
+# Hi there 👋, I' m Ranjeet  Hinge
+## Full Stack Web Developer | Competitive Programmer 
 ![Full Stack Web Developer | Competitive Programmer ](https://image.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg)
 
 I'm a Full Stack Web Developer who loves to code websites. I am always ready for learning new stuff and share my knowledge as much as I can.  The technologies in which I feel comfortable are React JS, Express JS, Mongo DB. I  also have decent experience in  DSA Problem Solving.
