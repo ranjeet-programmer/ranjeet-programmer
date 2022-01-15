@@ -18,4 +18,4 @@ Skills:   REACT JS / NODE JS / HTML / CSS
 
 <h3 align="left"> Social Handles </h3>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/ranjeet-programmer)         [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/ranjeet-hinge-7884b019b/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/ranjeet-programmer)  &nbsp;       [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/ranjeet-hinge-7884b019b/)
