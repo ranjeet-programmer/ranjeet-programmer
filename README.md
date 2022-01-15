@@ -10,6 +10,7 @@ Skills:   REACT JS / NODE JS / HTML / CSS
 - 💬 Ask me about Web Development and Problem Solving 
 - 📫 How to reach me: ranjeethingeofficial@gmail.com 
 
+<hr> </hr>
 
 <h3 align="left">Coding Handles :</h3>
 <p align="left">
