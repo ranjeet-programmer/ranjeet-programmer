@@ -10,4 +10,5 @@ Skills:   REACT JS / NODE JS / HTML / CSS
 - 💬 Ask me about Web Development and Problem Solving 
 - 📫 How to reach me: ranjeethingeofficial@gmail.com 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/ranjeet-programmer)     [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ranjeet-hinge-7884b019b//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='30'>](https://elated-volhard-a284d3.netlify.app/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/ranjeet-programmer)    
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ranjeet-hinge-7884b019b//)  
