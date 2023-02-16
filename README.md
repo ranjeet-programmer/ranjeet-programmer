@@ -45,10 +45,8 @@ I'm a Backend Web Developer who loves to code websites. I am always ready for le
 
 <h3 align="left"> Social Handles </h3>
 
-<h3 align="left"> Social Handles </h3>
-
 <a href="https://github.com/ranjeet-programmer" target="_blank" rel="noreferrer">
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" height="30" style="margin-right: 10px;">
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" height="30" style="margin-right: 30px;">
 </a>
 
 <a href="https://www.linkedin.com/in/ranjeet-hinge-7884b019b/" target="_blank">
