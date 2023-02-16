@@ -7,7 +7,7 @@
 </div>
 
 
-I'm a Backend Web Developer who loves to code websites. I am always ready for learning new stuff and share my knowledge as much as I can.  The technologies in which I feel comfortable are React JS, Express JS, Mongo DB. I  also have decent experience in  DSA Problem Solving.
+<strong>I'm a Backend Web Developer who loves to code websites. I am always ready for learning new stuff and share my knowledge as much as I can. The technologies in which I feel comfortable are React JS, Express JS, Mongo DB. I also have decent experience in DSA Problem Solving.</strong>
 
 <h2>Skills:</h2>
 
