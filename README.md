@@ -10,7 +10,7 @@ I'm a Backend Web Developer who loves to code websites. I am always ready for le
   <li style="display: flex; align-items: center; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;"><img src="https://img.icons8.com/color/48/000000/react-native.png" style="margin-right: 10px;"/><span>React JS</span></li>
   <li style="display: flex; align-items: center; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;"><img src="https://img.icons8.com/color/48/000000/nodejs.png" style="margin-right: 10px;"/><span>Node JS</span></li>
   <li style="display: flex; align-items: center; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;"><img src="https://img.icons8.com/color/48/000000/express.png" style="margin-right: 10px;"/><span>Express JS</span></li>
-  <li style="display: flex; align-items: center; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;"><img src="https://img.icons8.com/color/48/000000/mongodb.png" style="margin-right: 10px;"/><span>MongoDB</span></li>
+  <li style="display: flex; align-items: center; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;"><img src="https://img.icons8.com/color/48/000000/mongodb.png" style="margin-left: 50px;"/><span>MongoDB</span></li>
 </ul>
 
 
