@@ -47,7 +47,7 @@ I'm a Backend Web Developer who loves to code websites. I am always ready for le
 
 <a href="https://github.com/ranjeet-programmer" target="_blank" rel="noreferrer">
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" height="30" style="margin-right: 300px;">
-</a>
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/ranjeet-hinge-7884b019b/" target="_blank">
     <img src="https://www.freepnglogos.com/uploads/linkedin-blue-style-logo-png-0.png" alt="LinkedIn" height="30" />
