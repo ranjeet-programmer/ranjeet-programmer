@@ -55,11 +55,10 @@ I'm a Backend Web Developer who loves to code websites. I am always ready for le
 
 <hr>
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjeet-programmer&layout=compact&hide_border=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjeet-programmer&layout=compact&hide_border=true&theme=gruvbox" />
   <br />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ranjeet-programmer&show_icons=true&line_height=27&count_private=true&hide_border=true&theme=radical" alt="Ranjeet's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ranjeet-programmer&show_icons=true&line_height=27&count_private=true&hide_border=true&theme=gruvbox" alt="Ranjeet's GitHub Stats" />
 </div>
-
 
 
 
