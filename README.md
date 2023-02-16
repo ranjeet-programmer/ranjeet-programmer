@@ -7,10 +7,10 @@ I'm a Backend Web Developer who loves to code websites. I am always ready for le
 <h2>Skills:</h2>
 
 <ul style="list-style-type: none; padding: 0;">
-  <li style="display: flex; align-items: center;"><img src="https://img.icons8.com/color/48/000000/react-native.png" style="margin-right: 10px;"/> React JS</li>
-  <li style="display: flex; align-items: center;"><img src="https://img.icons8.com/color/48/000000/nodejs.png" style="margin-right: 10px;"/> Node JS</li>
-  <li style="display: flex; align-items: center;"><img src="https://img.icons8.com/color/48/000000/html-5--v1.png" style="margin-right: 10px;"/> HTML</li>
-  <li style="display: flex; align-items: center;"><img src="https://img.icons8.com/color/48/000000/css3.png" style="margin-right: 10px;"/> CSS</li>
+   <li style="display: flex; align-items: center; margin-bottom: 10px;"><img src="https://img.icons8.com/color/48/000000/react-native.png" style="margin-right: 10px;"/> <span style="display: flex; align-items: center; text-align: center; width: 100%;">React JS</span></li>
+   <li style="display: flex; align-items: center; margin-bottom: 10px;"><img src="https://img.icons8.com/color/48/000000/nodejs.png" style="margin-right: 10px;"/> <span style="display: flex; align-items: center; text-align: center; width: 100%;">Node JS</span></li>
+   <li style="display: flex; align-items: center; margin-bottom: 10px;"><img src="https://img.icons8.com/color/48/000000/html-5--v1.png" style="margin-right: 10px;"/> <span style="display: flex; align-items: center; text-align: center; width: 100%;">HTML</span></li>
+   <li style="display: flex; align-items: center; margin-bottom: 10px;"><img src="https://img.icons8.com/color/48/000000/css3.png" style="margin-right: 10px;"/> <span style="display: flex; align-items: center; text-align: center; width: 100%;">CSS</span></li>
 </ul>
 
 <hr> </hr>
