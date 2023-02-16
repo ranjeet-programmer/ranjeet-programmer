@@ -32,7 +32,7 @@ I'm a Backend Web Developer who loves to code websites. I am always ready for le
 
 <hr></hr>
 
-<h3 align="left">Internships:</h3>
+<!-- <h3 align="left">Internships:</h3>
 <p align="left">
   <a href="https://www.connectwise.com/" target="_blank" rel="noreferrer">
     <img src="https://i.imgur.com/PfjLH1p.png" alt="ConnectWise" height="30" style="margin-right: 10px;"/>
@@ -41,7 +41,7 @@ I'm a Backend Web Developer who loves to code websites. I am always ready for le
     <img src="https://i.imgur.com/e2nZnEs.png" alt="Cimpress" height="30" />
   </a>
 </p>
-<hr></hr>
+<hr></hr> -->
 
 <h3 align="left"> Social Handles </h3>
 
