@@ -7,7 +7,7 @@ I'm a Backend Web Developer who loves to code websites. I am always ready for le
 <h2>Skills:</h2>
 
 <ul>
-  <li style="display: flex; align-items: center; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;"><img src="https://img.icons8.com/color/48/000000/react-native.png" style="margin-right: 10px;"/>&nbsp;&nbsp;<span style = "margin-top : -20px">React JS</span></li>
+  <li style="display: flex; align-items: center; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;"><img src="https://img.icons8.com/color/48/000000/react-native.png" style="margin-right: 10px;"/>&nbsp;&nbsp;<span style = "margin-top : -200px">React JS</span></li>
   <li style="display: flex; align-items: center; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;"><img src="https://img.icons8.com/color/48/000000/nodejs.png" style="margin-right: 10px;"/>&nbsp;&nbsp;<span>Node JS</span></li>
   <li style="display: flex; align-items: center; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;"><img src="https://img.icons8.com/color/48/000000/express.png" style="margin-right: 10px;"/>&nbsp;&nbsp;<span>Express JS</span></li>
   <li style="display: flex; align-items: center; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;"><img src="https://img.icons8.com/color/48/000000/mongodb.png" style="margin-right: 10px;"/>&nbsp;&nbsp;<span>MongoDB</span></li>
