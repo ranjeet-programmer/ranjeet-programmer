@@ -1,6 +1,20 @@
 # <div style="display: flex; align-items: center; justify-content: center; height: 100vh; font-family: Arial, sans-serif;">
-  <h1 style="font-size: 4rem;">Hello there 👋, I'm Ranjeet Hinge</h1>
+  <h1 id="header" style="font-size: 4rem;"></h1>
 </div>
+
+<script>
+  const header = document.getElementById('header');
+  const text = "Hello there 👋, I'm Ranjeet Hinge";
+  let index = 0;
+  function typeWriter() {
+    if (index < text.length) {
+      header.innerHTML += text.charAt(index);
+      index++;
+      setTimeout(typeWriter, 50);
+    }
+  }
+  typeWriter();
+</script>
 
 ## Backend Web Developer | Competitive Programmer 
 
