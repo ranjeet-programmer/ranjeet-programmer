@@ -18,10 +18,10 @@ I'm a Backend Web Developer who loves to code websites. I am always ready for le
 <p align="left">
   <a href="https://www.codechef.com/users/revenge_ff" target="_blank">
    <img align="center" src="https://www.codechef.com/sites/all/themes/abessive/cc-logo.svg" alt="revenge_ff" height="30" width="30" style="margin-right: 10px;"/>
-  </a>
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.hackerrank.com/ranjeethingeoff1" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ranjeethingeoff1" height="30" width="40" style="margin-right: 10px;">
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.leetcode.com/ranjeethingeofficial" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ranjeethingeofficial" height="30" width="40">
   </a>
