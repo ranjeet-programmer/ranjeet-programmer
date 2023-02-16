@@ -45,6 +45,15 @@ I'm a Backend Web Developer who loves to code websites. I am always ready for le
 
 <h3 align="left"> Social Handles </h3>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/ranjeet-programmer)  &nbsp;       [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/ranjeet-hinge-7884b019b/)
-<hr></hr>
+<a href="https://github.com/ranjeet-programmer" target="_blank" rel="noopener noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="30" style="margin-right: 10px"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ranjeet-hinge-7884b019b/" target="_blank" rel="noopener noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/icons/linkedin.svg" alt="linkedin" height="30" />
+</a>
+
+<hr>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ranjeet-programmer&show_icons=true&locale=en" alt="ranjeet-programmer" /></p>
+
