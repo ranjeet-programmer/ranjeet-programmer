@@ -6,12 +6,13 @@ I'm a Backend Web Developer who loves to code websites. I am always ready for le
 
 <h2>Skills:</h2>
 
-<ul style="list-style-type: none; padding: 0;">
-   <li style="display: flex; align-items: center; margin-bottom: 10px;"><img src="https://img.icons8.com/color/48/000000/react-native.png" style="margin-right: 10px;"/> <span style="display: flex; align-items: center; text-align: center; width: 100%;">React JS</span></li>
-   <li style="display: flex; align-items: center; margin-bottom: 10px;"><img src="https://img.icons8.com/color/48/000000/nodejs.png" style="margin-right: 10px;"/> <span style="display: flex; align-items: center; text-align: center; width: 100%;">Node JS</span></li>
-   <li style="display: flex; align-items: center; margin-bottom: 10px;"><img src="https://img.icons8.com/color/48/000000/html-5--v1.png" style="margin-right: 10px;"/> <span style="display: flex; align-items: center; text-align: center; width: 100%;">HTML</span></li>
-   <li style="display: flex; align-items: center; margin-bottom: 10px;"><img src="https://img.icons8.com/color/48/000000/css3.png" style="margin-right: 10px;"/> <span style="display: flex; align-items: center; text-align: center; width: 100%;">CSS</span></li>
+<<ul style="list-style: none; padding: 0; display: flex; justify-content: space-between;">
+  <li style="display: flex; align-items: center; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;"><img src="https://img.icons8.com/color/48/000000/react-native.png" style="margin-right: 15px;"/><span>React JS</span></li>
+  <li style="display: flex; align-items: center; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;"><img src="https://img.icons8.com/color/48/000000/nodejs.png" style="margin-right: 15px;"/><span>Node JS</span></li>
+  <li style="display: flex; align-items: center; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;"><img src="https://img.icons8.com/color/48/000000/express.png" style="margin-right: 15px;"/><span>Express JS</span></li>
+  <li style="display: flex; align-items: center; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;"><img src="https://img.icons8.com/color/48/000000/mongodb.png" style="margin-right: 15px;"/><span>MongoDB</span></li>
 </ul>
+
 
 <hr> </hr>
 
