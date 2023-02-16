@@ -1,4 +1,7 @@
-# Hello there 👋, I' m Ranjeet  Hinge
+# <div style="display: flex; align-items: center; justify-content: center; height: 100vh; font-family: Arial, sans-serif;">
+  <h1 style="font-size: 4rem;">Hello there 👋, I'm Ranjeet Hinge</h1>
+</div>
+
 ## Backend Web Developer | Competitive Programmer 
 
 <div style="display: flex; justify-content: center; aligin-items :center ;">
