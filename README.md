@@ -35,13 +35,14 @@ I'm a Backend Web Developer who loves to code websites. I am always ready for le
 <h3 align="left">Internships:</h3>
 <p align="left">
   <a href="https://www.connectwise.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.connectwise.com/-/media/Images/ConnectWise-Brand/logo.png" alt="ConnectWise" height="30" style="margin-right: 10px;"/>
+    <img src="https://i.imgur.com/PfjLH1p.png" alt="ConnectWise" height="30" style="margin-right: 10px;"/>
   </a>
   <a href="https://cimpress.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.cimpress.com/-/media/Images/Cimpress/cimpress-logo-2000x2000.ashx" alt="Cimpress" height="30" />
+    <img src="https://i.imgur.com/e2nZnEs.png" alt="Cimpress" height="30" />
   </a>
 </p>
-<hr></hr> 
+<hr></hr>
+
 <h3 align="left"> Social Handles </h3>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/ranjeet-programmer)  &nbsp;       [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/ranjeet-hinge-7884b019b/)
