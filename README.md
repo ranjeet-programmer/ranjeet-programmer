@@ -1,6 +1,6 @@
 # Hello there 👋, I' m Ranjeet  Hinge
 ## Backend Web Developer | Competitive Programmer 
-<img src="logo.png" alt="Logo" width="300" height="300">
+<img src="logo.png" alt="Logo" width="400" height="400">
 
 
 I'm a Backend Web Developer who loves to code websites. I am always ready for learning new stuff and share my knowledge as much as I can.  The technologies in which I feel comfortable are React JS, Express JS, Mongo DB. I  also have decent experience in  DSA Problem Solving.
