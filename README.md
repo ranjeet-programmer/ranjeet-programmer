@@ -19,14 +19,14 @@ I'm a Backend Web Developer who loves to code websites. I am always ready for le
 <hr> </hr>
 <h3 align="left">Coding Handles :</h3>
 <p align="left">
-  <a href="https://www.codechef.com/users/revenge_ff" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="revenge_ff" height="30" width="40" style="margin-right: 10px;"/>
+  <a href="https://www.codechef.com/users/revenge_ff" target="_blank">
+    <img align="center" src="https://i.imgur.com/k0Tt1aT.png" alt="revenge_ff" height="30" width="40" style="margin-right: 10px;">
   </a>
-  <a href="https://www.hackerrank.com/ranjeethingeoff1" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ranjeethingeoff1" height="30" width="40" style="margin-right: 10px;"/>
+  <a href="https://www.hackerrank.com/ranjeethingeoff1" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ranjeethingeoff1" height="30" width="40" style="margin-right: 10px;">
   </a>
-  <a href="https://www.leetcode.com/ranjeethingeofficial" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ranjeethingeofficial" height="30" width="40" />
+  <a href="https://www.leetcode.com/ranjeethingeofficial" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ranjeethingeofficial" height="30" width="40">
   </a>
 </p>
 
