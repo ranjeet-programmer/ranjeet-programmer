@@ -1,14 +1,24 @@
 # Hello there 👋, I' m Ranjeet  Hinge
 ## Backend Web Developer | Competitive Programmer 
-![Backend Developer  | Competitive Programmer ](https://image.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg)
+![Backend Web Developer  | Competitive Programmer ](https://image.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg)
 
 I'm a Backend Web Developer who loves to code websites. I am always ready for learning new stuff and share my knowledge as much as I can.  The technologies in which I feel comfortable are React JS, Express JS, Mongo DB. I  also have decent experience in  DSA Problem Solving.
 
-Skills:   REACT JS / NODE JS / HTML / CSS
+<h2>Skills:</h2>
 
-- 🌱 I’m currently learning Cloud Computing 
-- 💬 Ask me about Web Development and Problem Solving 
-- 📫 How to reach me: ranjeethingeofficial@gmail.com 
+<ul>
+  <li><img src="https://img.icons8.com/color/48/000000/react-native.png"/> React JS</li>
+  <li><img src="https://img.icons8.com/color/48/000000/nodejs.png"/> Node JS</li>
+  <li><img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> HTML</li>
+  <li><img src="https://img.icons8.com/color/48/000000/css3.png"/> CSS</li>
+</ul>
+
+<p>As a developer, I have honed my skills in these key areas, enabling me to create beautiful and functional web applications that are both visually stunning and highly responsive.</p>
+
+<p>With React JS, I am able to create dynamic and interactive user interfaces, leveraging the power of this cutting-edge library to build scalable and maintainable applications.</p>
+
+<p>Meanwhile, Node JS enables me to build powerful backend systems, enabling seamless communication between server and client, and allowing for efficient data storage and retrieval.</p>
+
 
 <hr> </hr>
 
