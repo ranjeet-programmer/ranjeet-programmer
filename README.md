@@ -1,7 +1,7 @@
 # Hello there 👋, I' m Ranjeet  Hinge
 ## Backend Web Developer | Competitive Programmer 
 
-<div style="display: flex; justify-content: center;">
+<div style="display: flex; justify-content: center; aligin-items :center ;">
   <img src="logo.png" alt="Logo" width="500" height="500">
 </div>
 
