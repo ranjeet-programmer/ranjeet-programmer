@@ -50,7 +50,7 @@ I'm a Backend Web Developer who loves to code websites. I am always ready for le
 </a>
 
 <a href="https://www.linkedin.com/in/ranjeet-hinge-7884b019b/" target="_blank" rel="noopener noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/icons/linkedin.svg" alt="linkedin" height="30" />
+  <img src="[https://cdn.jsdelivr.net/gh/simple-icons/icons/linkedin.svg](https://www.freepnglogos.com/uploads/linkedin-blue-style-logo-png-0.png)" alt="linkedin" height="30" />
 </a>
 
 <hr>
