@@ -13,13 +13,6 @@ I'm a Backend Web Developer who loves to code websites. I am always ready for le
   <li><img src="https://img.icons8.com/color/48/000000/css3.png"/> CSS</li>
 </ul>
 
-<p>As a developer, I have honed my skills in these key areas, enabling me to create beautiful and functional web applications that are both visually stunning and highly responsive.</p>
-
-<p>With React JS, I am able to create dynamic and interactive user interfaces, leveraging the power of this cutting-edge library to build scalable and maintainable applications.</p>
-
-<p>Meanwhile, Node JS enables me to build powerful backend systems, enabling seamless communication between server and client, and allowing for efficient data storage and retrieval.</p>
-
-
 <hr> </hr>
 
 <h3 align="left">Coding Handles :</h3>
