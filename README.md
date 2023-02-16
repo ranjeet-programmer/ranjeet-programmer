@@ -1,19 +1,5 @@
 #  Hi there 👋, I' m Ranjeet  Hinge
 
-<script>
-  const header = document.getElementById('header');
-  const text = "Hello there 👋, I'm Ranjeet Hinge";
-  let index = 0;
-  function typeWriter() {
-    if (index < text.length) {
-      header.innerHTML += text.charAt(index);
-      index++;
-      setTimeout(typeWriter, 50);
-    }
-  }
-  typeWriter();
-</script>
-
 ## Backend Web Developer | Competitive Programmer 
 
 <div style="display: flex; justify-content: center; aligin-items :center ;">
