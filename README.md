@@ -6,12 +6,24 @@ I'm a Backend Web Developer who loves to code websites. I am always ready for le
 
 <h2>Skills:</h2>
 
-<ul style="list-style-type: none; padding: 0;">
-  <li style="text-decoration : none; display: flex; align-items: center;"><img src="https://img.icons8.com/color/48/000000/react-native.png" style="margin-right: 10px;"/>React JS</li>
-  <li style="display: flex; align-items: center;"><img src="https://img.icons8.com/color/48/000000/nodejs.png" style="margin-right: 10px;"/>Node JS</li>
-  <li style="display: flex; align-items: center;"><img src="https://img.icons8.com/color/48/000000/express.png" style="margin-right: 10px;"/>Express JS</li>
-  <li style="display: flex; align-items: center;"><img src="https://img.icons8.com/color/48/000000/mongodb.png" style="margin-right: 10px;"/>MongoDB</li>
-</ul>
+<div style="display: flex; align-items: center;">
+  <div style="display: flex; flex-direction: column; align-items: center; margin-right: 30px;">
+    <img src="https://img.icons8.com/color/48/000000/react-native.png" style="margin-bottom: 10px;"/>
+    <span>React JS</span>
+  </div>
+  <div style="display: flex; flex-direction: column; align-items: center; margin-right: 30px;">
+    <img src="https://img.icons8.com/color/48/000000/nodejs.png" style="margin-bottom: 10px;"/>
+    <span>Node JS</span>
+  </div>
+  <div style="display: flex; flex-direction: column; align-items: center; margin-right: 30px;">
+    <img src="https://img.icons8.com/color/48/000000/express.png" style="margin-bottom: 10px;"/>
+    <span>Express JS</span>
+  </div>
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <img src="https://img.icons8.com/color/48/000000/mongodb.png" style="margin-bottom: 10px;"/>
+    <span>MongoDB</span>
+  </div>
+</div>
 
 
 
