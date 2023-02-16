@@ -1,6 +1,6 @@
 # Hello there 👋, I' m Ranjeet  Hinge
 ## Backend Web Developer | Competitive Programmer 
-![Backend Web Developer  | Competitive Programmer ](<a href='https://pngtree.com/so/Professional'>Professional png from pngtree.com/</a>)
+<a href='https://pngtree.com/so/Professional'>Professional png from pngtree.com/</a>
 
 I'm a Backend Web Developer who loves to code websites. I am always ready for learning new stuff and share my knowledge as much as I can.  The technologies in which I feel comfortable are React JS, Express JS, Mongo DB. I  also have decent experience in  DSA Problem Solving.
 
