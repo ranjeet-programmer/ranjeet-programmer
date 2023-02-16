@@ -7,9 +7,9 @@ I'm a Backend Web Developer who loves to code websites. I am always ready for le
 <h2>Skills:</h2>
 
 <div style="display:flex; justify-content:center;">
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" style="margin-right: 10px;">
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png" style="margin-right: 10px;">
-  <img src="https://img.icons8.com/color/48/000000/express.png" style="margin-right: 10px;">
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" style="margin-right: 10px;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" style="margin-right: 10px;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/express.png" style="margin-right: 10px;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" style="margin-right: 10px;">
 </div>
 
