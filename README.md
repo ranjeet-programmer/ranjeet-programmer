@@ -56,7 +56,7 @@ I'm a Backend Web Developer who loves to code websites. I am always ready for le
 <hr>
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjeet-programmer&layout=compact&theme=dark" />
-  &nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ranjeet-programmer&show_icons=true&line_height=27&count_private=true&theme=dark" alt="Ranjeet's GitHub Stats" />
 </div>
 
