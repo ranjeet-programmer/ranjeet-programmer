@@ -45,17 +45,18 @@ I'm a Backend Web Developer who loves to code websites. I am always ready for le
 
 <h3 align="left"> Social Handles </h3>
 
-<p align="left">
-  <a href="https://github.com/ranjeet-programmer" target="_blank" rel="noreferrer">
-    <img src="https://icons8.com/icon/12599/github" alt="GitHub" height="30" style="margin-right: 10px;">
-  </a>
-  <a href="https://www.linkedin.com/in/ranjeet-hinge-7884b019b/" target="_blank">
-    <img src="https://www.freepnglogos.com/uploads/linkedin-blue-style-logo-png-0.png" alt="LinkedIn" height="30" />
-  </a>
-</p>
+<h3 align="left"> Social Handles </h3>
 
-<hr></hr>
+<a href="https://github.com/ranjeet-programmer" target="_blank" rel="noreferrer">
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" height="30" style="margin-right: 10px;">
+</a>
 
+<a href="https://www.linkedin.com/in/ranjeet-hinge-7884b019b/" target="_blank" rel="noreferrer">
+  <img src="https://i.imgur.com/mF4ZH4y.png" alt="LinkedIn" height="30">
+</a>
+
+<hr>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ranjeet-programmer&show_icons=true&locale=en" alt="ranjeet-programmer" /></p>
+
 
 
