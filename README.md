@@ -1,6 +1,4 @@
-# <div style="display: flex; align-items: center; justify-content: center; height: 100vh; font-family: Arial, sans-serif;">
-  <h1 id="header" style="font-size: 4rem;"></h1>
-</div>
+#  Hi there 👋, I' m Ranjeet  Hinge
 
 <script>
   const header = document.getElementById('header');
