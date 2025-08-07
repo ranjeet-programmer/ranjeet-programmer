@@ -1,61 +1,40 @@
-<!-- Profile Header -->
-<h1 align="center">👋 Hi, I'm Ranjeet Hinge</h1>
-<p align="center">
-  <b>Backend Web Developer</b> &nbsp;|&nbsp; <b>Competitive Programmer</b>
-</p>
+<div align="center">
+Hi, I'm Ranjeet Hinge 👋
+Backend Web Developer • Competitive Programmer
 
----
+Building scalable systems, solving complex problems
 
-<!-- About Section -->
-<p align="center">
-  Curious. Analytical. Forever learning.<br>
-  I build performant server-side web apps, tackle DSA problems for fun, and enjoy sharing my knowledge. <br>
-  Let’s collaborate and grow together!
-</p>
+🚀 About Me
+Curious. Analytical. Forever learning.
 
----
+I build performant server-side web apps, tackle DSA problems for fun, and enjoy sharing my knowledge.
+Let's collaborate and grow together!
 
-<!-- Skills -->
-<h3 align="center">🚀 Tech Stack</h3>
-<p align="center">
-  <img src="https://img.icons8.com/color/48/react-native.png" alt="ReactJS" height="32"/>
-  <img src="https://img.icons8.com/color/48/nodejs.png" alt="NodeJS" height="32"/>
-  <img src="https://img.icons8.com/color/48/express.png" alt="ExpressJS" height="32"/>
-  <img src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB" height="32"/>
-</p>
-<p align="center">
-  <code>React.js</code> • <code>Node.js</code> • <code>Express.js</code> • <code>MongoDB</code> • <code>DSA</code>
-</p>
+🛠️ Tech Stack
+javascript
+const skills = {
+  backend: ['Node.js', 'Express.js', 'MongoDB'],
+  frontend: ['React.js'],
+  problem_solving: ['DSA', 'Competitive Programming']
+}
+Languages & Tools
 
----
+🔧 Backend: Node.js, Express.js
 
-<!-- Coding Profiles -->
-<h3 align="center">🏆 Coding Profiles</h3>
-<p align="center">
-  <a href="https://www.codechef.com/users/revenge_ff"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/32/000000/external-codechef-a-competitive-programming-platform-logo-shadow-tal-revivo.png" alt="CodeChef"/></a>&nbsp;
-  <a href="https://www.hackerrank.com/ranjeethingeoff1"><img src="https://img.icons8.com/nolan/32/hackerrank.png" alt="HackerRank"/></a>&nbsp;
-  <a href="https://leetcode.com/ranjeethingeofficial"><img src="https://img.icons8.com/color/32/leetcode.png" alt="LeetCode"/></a>
-</p>
+🗄️ Database: MongoDB
 
----
+⚛️ Frontend: React.js
 
-<!-- Social Links -->
-<h3 align="center">🌎 Connect</h3>
-<p align="center">
-  <a href="https://github.com/ranjeet-programmer"><img src="https://img.icons8.com/material-rounded/32/000000/github.png" alt="GitHub"/></a>&nbsp;
-  <a href="https://www.linkedin.com/in/ranjeet-hinge-7884b019b/"><img src="https://img.icons8.com/fluency/32/linkedin.png" alt="LinkedIn"/></a>
-</p>
+🧠 Problem Solving: Data Structures & Algorithms
 
----
+🏆 Competitive Programming
+Currently solving problems and improving rankings on:
 
-<!-- Github Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjeet-programmer&layout=compact&theme=transparent" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=ranjeet-programmer&show_icons=true&count_private=true&theme=transparent" height="150"/>
-</p>
+CodeChef • HackerRank • LeetCode
 
----
-
-<p align="center">
-  <i>“Build. Break. Learn. Repeat.”</i>
-</p>
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ranjeet-programmer&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="165"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjeet-programmer&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="165"/> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ranjeet-programmer&theme=react&hide_border=true&background=1F222E&stroke=0D1117&ring=F85D7F&fire=F85D7F&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=F85D7F&sideLabels=F85D7F&dates=FFFFFF"/> </p>
+📫 Let's Connect
+<p align="center"> <a href="https://github.com/ranjeet-programmer"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> <a href="https://www.linkedin.com/in/ranjeet-hinge-7884b019b/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="mailto:ranjeethingeofficial@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> </p>
+💡 Philosophy
+<p align="center"> <em>"Build. Break. Learn. Repeat."</em> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=ranjeet-programmer&color=blueviolet&style=flat-square&label=Profile+Views"/> </p> </div>
